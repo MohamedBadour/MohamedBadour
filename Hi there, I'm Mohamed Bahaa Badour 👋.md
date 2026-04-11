@@ -1,83 +1,39 @@
-# Hi 👋 I'm Mohamed Bahaa Badour
+# Hi, I'm Mohamed Bahaa Badour 👋
 
-🎓 Computer Science Graduate from El Shorouk Academy  
-💻 Software Engineer | Web Developer  
-🌐 Interested in Backend Development & Web Technologies  
-
----
-
-## 👨‍💻 About Me
-
-I am a Computer Science graduate with a strong foundation in **Object-Oriented Programming, Data Structures, Algorithms, and Web Development**.
-
-I have practical experience building user interfaces with **HTML, CSS, JavaScript**, and mobile applications using **Flutter**.  
-Currently, I am focusing on learning **Node.js and backend development concepts**, aiming to build scalable and maintainable web applications.
-
-I am passionate about continuous learning, clean code, and solving real-world problems through technology.
+Computer Science graduate passionate about building web applications.
+Currently training in backend development with **Node.js** at Route Academy
+while self-studying **React.js**. I enjoy clean code, problem solving,
+and learning something new every day.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Skills
 
-### Frontend
-- HTML5, CSS3, Bootstrap  
-- JavaScript (ES6+)  
-- Responsive Web Design  
+**Frontend:** HTML5 · CSS3 · Bootstrap · JavaScript (ES6+) · React.js (learning)
 
-### Backend (Currently Learning)
-- Node.js  
-- Express.js  
-- RESTful APIs  
+**Backend:** Node.js · Express.js · RESTful APIs · ASP.NET Core · C#
 
-### Mobile
-- Flutter, Dart  
+**Core:** OOP · Data Structures · Algorithms · SOLID · Design Patterns · Agile
 
-### Core Concepts
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- Problem Solving  
-- SOLID Principles  
-- Agile Basics  
-
-### Tools
-- Git, GitHub  
+**Tools:** Git · GitHub · Flutter
 
 ---
 
 ## 📌 Projects
 
-### 🔹 HANDLINK System (Graduation Project)
-- Developed the **mobile application interface** using **Flutter**.  
-- Collaborated with team members responsible for backend and AI modules.  
-- Integrated the mobile app with backend services and AI model.  
-- Implemented authentication flows and category-based navigation.
+### HANDLINK System
+Graduation project — sign language learning app.
+Built the Flutter mobile interface and integrated it with backend (.NET Core) and AI modules.
+`Flutter` `ASP.NET Core` `AI`
 
-### 🔹 Smart Payment Card UI
-- Built using **HTML, CSS, and JavaScript**.  
-- Designed responsive and interactive user interfaces.  
-- Focused on clean UI and improved user experience.
-
-### 🔹 HandLink (Mobile App)
-- Flutter-based mobile application.  
-- Implemented UI screens and navigation flow.
-
-### 🔹 E-commerce System (Training Challenge)
-- Designed a simple e-commerce system structure.  
-- Implemented product listing, cart logic, and checkout flow.  
-- Applied OOP principles and problem-solving skills.
+### Smart Payment Card UI
+Responsive and interactive web UI for a modern payment card system.
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## 🎓 Education
+## 📫 Contact
 
-**Bachelor’s Degree in Computer Science**  
-El Shorouk Academy  
-Graduation Project Grade: **Excellent**
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: mohamedbahaabadour@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-bahaa-badour-8b8689267/  
-- 🧑‍💻 GitHub: https://github.com/MohamedBadour  
+- Email: mohamedbahaabadour@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-bahaa-badour-8b8689267/
+- GitHub: https://github.com/MohamedBadour
